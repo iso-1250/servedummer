@@ -1,0 +1,134 @@
+[
+  {
+    "id": "60bff438a9ff50d2072766f6",
+    "index": 0,
+    "guid": "77d4d626-7741-4381-a77b-9f74896a0f3d",
+    "isActive": true,
+    "balance": "$2,793.08",
+    "company": "DYNO",
+    "address": "435 Middagh Street, Nicut, Guam, 7865",
+    "record": 2828,
+    "registered": "2017-09-02T08:30:39 -03:00",
+    "latitude": 54.213214,
+    "longitude": -167.473046,
+    "tags": [
+      "enim",
+      "adipisicing",
+      "proident",
+      "deserunt",
+      "officia",
+      "Lorem",
+      "do"
+    ]
+  },
+  {
+    "id": "60bff438348b889dec806645",
+    "index": 1,
+    "guid": "6971a58e-360a-4824-a5c1-bcb073092351",
+    "isActive": false,
+    "balance": "$1,435.31",
+    "company": "MEDCOM",
+    "address": "789 Furman Street, Ribera, American Samoa, 9290",
+    "record": 8818,
+    "registered": "2015-12-18T09:46:26 -02:00",
+    "latitude": 49.30021,
+    "longitude": 110.633359,
+    "tags": [
+      "elit",
+      "magna",
+      "quis",
+      "do",
+      "laboris",
+      "enim",
+      "id"
+    ]
+  },
+  {
+    "id": "60bff438a5ff7f4912d912a9",
+    "index": 2,
+    "guid": "21efe9fe-660f-4f0b-879a-1d4e011cbca0",
+    "isActive": true,
+    "balance": "$1,744.90",
+    "company": "MANGLO",
+    "address": "649 Dank Court, Dixie, Oregon, 6737",
+    "record": 6774,
+    "registered": "2014-07-04T01:50:56 -03:00",
+    "latitude": 61.382179,
+    "longitude": -7.426509,
+    "tags": [
+      "pariatur",
+      "voluptate",
+      "voluptate",
+      "do",
+      "quis",
+      "irure",
+      "cupidatat"
+    ]
+  },
+  {
+    "id": "60bff4383457aef670e05ab1",
+    "index": 3,
+    "guid": "6d53c1c6-16d5-4cf7-80f7-cbad1bbe8ec3",
+    "isActive": false,
+    "balance": "$1,454.93",
+    "company": "NORSUL",
+    "address": "658 Vandervoort Avenue, Homeworth, Idaho, 1135",
+    "record": 5343,
+    "registered": "2018-12-09T11:51:45 -02:00",
+    "latitude": 77.579793,
+    "longitude": -8.743782,
+    "tags": [
+      "culpa",
+      "elit",
+      "deserunt",
+      "velit",
+      "dolor",
+      "sit",
+      "veniam"
+    ]
+  },
+  {
+    "id": "60bff438da989227fc948a8e",
+    "index": 4,
+    "guid": "969afb94-d8cd-48ee-a4b2-472ddef7d80e",
+    "isActive": false,
+    "balance": "$3,986.01",
+    "company": "BEADZZA",
+    "address": "230 Milton Street, Loretto, Florida, 7049",
+    "record": 5646,
+    "registered": "2014-11-03T07:54:59 -02:00",
+    "latitude": -68.402019,
+    "longitude": -32.332579,
+    "tags": [
+      "eiusmod",
+      "id",
+      "qui",
+      "excepteur",
+      "eiusmod",
+      "eu",
+      "eiusmod"
+    ]
+  },
+  {
+    "id": "60bff4380917f6d57188142d",
+    "index": 5,
+    "guid": "a79de552-076e-475b-9777-8ed92436521e",
+    "isActive": false,
+    "balance": "$2,550.39",
+    "company": "XINWARE",
+    "address": "183 Elliott Place, Bethany, South Carolina, 2088",
+    "record": 1787,
+    "registered": "2020-12-05T05:17:03 -02:00",
+    "latitude": 57.435692,
+    "longitude": -33.375188,
+    "tags": [
+      "reprehenderit",
+      "dolor",
+      "ex",
+      "ea",
+      "aliqua",
+      "incididunt",
+      "laborum"
+    ]
+  }
+]
